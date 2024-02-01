@@ -891,22 +891,11 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 浙江｜卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 港·澳·台,#genre#
-翡翠台,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/4a270ee8c19d1d45e75b3f308762be8368caddca4cab4799f0ebd49402b4e822.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/5ae23d382ba8410974a37778a9ef7f7ab8827902709cfd986c70d435ab7e89f2.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/8253f6570578a5fd9d68a907f57f066d4440081dc38e0d1bd79a3d87ae77171d.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/84af3251458a9136b815dc0ada47e0e93dd8a2a71aee006f2cbece682a2a5a12.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/a8d8fb5121cddcc8a8e8a6522fe652c0f9f4a62a76a8730b2f057a7fbf310421.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/32726505109981f80ae6ca37b6ac047b314683d40fab3b8845be656e43408c10.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/4f4ade7ea93490e1702d018b33437d50a735eed0e20307577a17a8e2fedaaff3.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/509d0637c736839bec9348ae161ceff014e3e6a9a1c57b41c11c027868e5e1d0.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
-ASTRO华丽(翡MAS)[geo-blocked],https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
