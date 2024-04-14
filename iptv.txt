@@ -1,5 +1,4 @@
 央视频道,#genre#
-央视频道
 CCTV1,http://120.79.4.185/md0414.php?id=cctv1
 CCTV1,https://www.sxtv.top/cctv.php?id=cctv1
 CCTV1,http://8.134.211.236:13556/china/cctv.php?id=cctv1
@@ -135,8 +134,6 @@ CCTV17,https://www.sxtv.top/cctv.php?id=cctv17
 CCTV17,http://8.134.211.236:13556/china/cctv.php?id=cctv17
 CCTV17,video://https://yangshipin.cn/#/tv/home?pid=600001810
 CCTV17,http://36.249.151.101:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 
 CCTV世界地理,https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.ctv
 CCTV世界地理,https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.ctv
